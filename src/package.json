@@ -1,0 +1,16 @@
+{
+  "name": "8ball",
+  "version": "1.0.0",
+  "description": "A Discord 8ball bot",
+  "main": "index.js",
+  "author": "Ofri Kirshen",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.6"
+  }
+}

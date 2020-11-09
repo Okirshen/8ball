@@ -1,0 +1,89 @@
+{
+    "emojis": {
+        "0": ":green_square:",
+        "1": ":orange_square:",
+        "2": ":red_square:"
+    },
+    "replies": [
+        {
+            "msg": "It is certain",
+            "type": 0
+        },
+        {
+            "msg": "It is decidedly so",
+            "type": 0
+        },
+        {
+            "msg": "Without a doubt",
+            "type": 0
+        },
+        {
+            "msg": "Yes – definitely",
+            "type": 0
+        },
+        {
+            "msg": "You may rely on it",
+            "type": 0
+        },
+        {
+            "msg": "As I see it, yes",
+            "type": 0
+        },
+        {
+            "msg": "Most likely",
+            "type": 0
+        },
+        {
+            "msg": "Outlook good",
+            "type": 0
+        },
+        {
+            "msg": "Yes",
+            "type": 0
+        },
+        {
+            "msg": "Signs point to yes",
+            "type": 0
+        },
+        {
+            "msg": "Reply hazy, try again",
+            "type": 1
+        },
+        {
+            "msg": " Ask again later",
+            "type": 1
+        },
+        {
+            "msg": "Better not tell you now",
+            "type": 1
+        },
+        {
+            "msg": "Cannot predict now",
+            "type": 1
+        },
+        {
+            "msg": "Concentrate and ask again",
+            "type": 1
+        },
+        {
+            "msg": "Don't count on it",
+            "type": 2
+        },
+        {
+            "msg": "My reply is no",
+            "type": 2
+        },
+        {
+            "msg": "My sources say no",
+            "type": 2
+        },
+        {
+            "msg": "Outlook not so good",
+            "type": 2
+        },
+        {
+            "msg": "Very doubtful",
+            "type": 2
+        }
+    ]
+}
