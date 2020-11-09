@@ -1,3 +1,5 @@
+// link: https://discord.com/api/oauth2/authorize?client_id=775378069523398686&permissions=8&redirect_uri=http%3A%2F%2Fokirshen.github.io%2F8ball&scope=bot
+
 const fs = require('fs');
 const Discord = require('discord.js');
 require('dotenv').config();
