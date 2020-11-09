@@ -4,7 +4,7 @@ const fs = require('fs');
 const Discord = require('discord.js');
 require('dotenv').config();
 
-const repliesRaw = fs.readFileSync('replies.json');
+const repliesRaw = fs.readFileSync('src/replies.json');
 const replies = JSON.parse(repliesRaw);
 function getRandomReply() {
 	const reply =
