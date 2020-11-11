@@ -1,2 +1,2 @@
 # 8ball
-[website](https://www.google.com "8ball Website")
+[website](https://okirshen.github.io/8ball/ "8ball Website")
